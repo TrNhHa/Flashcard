@@ -1,28 +1,17 @@
-# 🧠 Flashcard học tập (Python Tkinter)
+# 🧠 Ứng dụng Flashcard học tập (Python Tkinter)
 
-A simple desktop flashcard application built with Python and Tkinter.  
-Easily add, review, and reveal answers to flashcards. All data is stored locally in a JSON file.
+Ứng dụng flashcard đơn giản giúp bạn tạo và ôn tập các câu hỏi - đáp án, viết bằng Python sử dụng thư viện Tkinter để làm giao diện đồ họa.
 
-## Features
+## Tính năng
 
-- Add new flashcards (Question & Answer)
-- Review flashcards randomly
-- Reveal answers
-- Data saved in `data.json`
+- Thêm flashcard mới (Câu hỏi và Đáp án)
+- Ôn tập flashcard ngẫu nhiên
+- Hiện đáp án khi cần
+- Lưu trữ dữ liệu vào file `data.json` trên máy
 
-## How to run
+## Cách sử dụng
 
-```bash
-python flashcard_app.py
-```
+1. Chạy ứng dụng bằng lệnh:
 
-## Requirements
-
-- Python 3.x
-- No external libraries required
-
-## Suggestions for improvements
-
-- Add flashcard editing and deleting features
-- Improve UI with themes or sounds
-- Support different categories or subjects
+   ```bash
+   python flashcard_app.py
